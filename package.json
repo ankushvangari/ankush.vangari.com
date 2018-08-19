@@ -1,0 +1,23 @@
+{
+  "name": "ankush.vangari.com",
+  "version": "1.0.0",
+  "description": "Personal website made with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankushvangari/ankush.vangari.com.git"
+  },
+  "author": "Ankush Vangari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankushvangari/ankush.vangari.com/issues"
+  },
+  "homepage": "https://github.com/ankushvangari/ankush.vangari.com#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
