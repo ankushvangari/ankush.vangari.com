@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/ankush.vangari.com/precache-manifest.bd98a7dce71de19d2c147e1083d5c9e4.js"
+  "/ankush.vangari.com/precache-manifest.ff9e37119569eb83a9e7172d31963d4a.js"
 );
 
 workbox.clientsClaim();
