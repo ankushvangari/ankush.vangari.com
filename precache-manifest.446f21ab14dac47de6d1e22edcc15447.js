@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/ankush.vangari.com/static/css/main.8eb08f91.chunk.css"
   },
   {
-    "revision": "353aea410a121d7323ff7c03be1a46cb",
+    "revision": "a8c9595958e7e642707af510792c2297",
     "url": "/ankush.vangari.com/index.html"
   }
 ];
