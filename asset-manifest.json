@@ -1,13 +1,13 @@
 {
-  "main.css": "/ankush.vangari.com/static/css/main.8eb08f91.chunk.css",
-  "main.js": "/ankush.vangari.com/static/js/main.4b6cafc3.chunk.js",
-  "main.js.map": "/ankush.vangari.com/static/js/main.4b6cafc3.chunk.js.map",
-  "static/js/1.3bf8d718.chunk.js": "/ankush.vangari.com/static/js/1.3bf8d718.chunk.js",
-  "static/js/1.3bf8d718.chunk.js.map": "/ankush.vangari.com/static/js/1.3bf8d718.chunk.js.map",
-  "runtime~main.js": "/ankush.vangari.com/static/js/runtime~main.2c45de4f.js",
-  "runtime~main.js.map": "/ankush.vangari.com/static/js/runtime~main.2c45de4f.js.map",
-  "static/css/main.8eb08f91.chunk.css.map": "/ankush.vangari.com/static/css/main.8eb08f91.chunk.css.map",
-  "index.html": "/ankush.vangari.com/index.html",
-  "precache-manifest.034cd9c2133e35e9e7a0a6e4207b0912.js": "/ankush.vangari.com/precache-manifest.034cd9c2133e35e9e7a0a6e4207b0912.js",
-  "service-worker.js": "/ankush.vangari.com/service-worker.js"
+  "main.css": "/static/css/main.8eb08f91.chunk.css",
+  "main.js": "/static/js/main.4b6cafc3.chunk.js",
+  "main.js.map": "/static/js/main.4b6cafc3.chunk.js.map",
+  "static/js/1.3bf8d718.chunk.js": "/static/js/1.3bf8d718.chunk.js",
+  "static/js/1.3bf8d718.chunk.js.map": "/static/js/1.3bf8d718.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/main.8eb08f91.chunk.css.map": "/static/css/main.8eb08f91.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.fc45e42f27b4f7d50fd8faf362f8bf8b.js": "/precache-manifest.fc45e42f27b4f7d50fd8faf362f8bf8b.js",
+  "service-worker.js": "/service-worker.js"
 }
