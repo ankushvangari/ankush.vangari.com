@@ -15,7 +15,7 @@
       "zip": ""
     },
     "website": "http://www.ankush.vangari.com",
-    "resumedownload":"http://ankush.vangari.com",
+    "resumedownload":"http://ankush.vangari.com/AnkushVangariResume.pdf",
     "social":[
       {
         "name":"linkedin",
@@ -33,10 +33,10 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of California, Riverside",
+        "degree":"Bachelor's in Computer Science",
+        "graduated":"",
+        "description":""
       },
       {
         "school":"School #1 Maybe College?",
