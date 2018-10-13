@@ -13,7 +13,7 @@ import Header from './Components/Header';
 class App extends Component {
 
   constructor(props){
-    super(props);
+    super(props); 
     this.state = {
       foo: 'bar',
       resumeData: {}
@@ -26,7 +26,7 @@ class App extends Component {
 
   getResumeData(){
     $.ajax({
-      url:'/resumeData.json',
+      url:'./resumeData.json',
       dataType:'json',
       cache: false,
       success: function(data){
