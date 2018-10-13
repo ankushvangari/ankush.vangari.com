@@ -22,6 +22,7 @@ class Header extends Component {
 
          <ul id="nav" className="nav">
 
+           <li><a className="smoothscroll" href="#about">About</a></li>
          </ul>
 
       </nav>
@@ -34,6 +35,9 @@ class Header extends Component {
             <ul className="social">
                {networks}
             </ul>
+                  <p className="scrolldown">
+         <a className="smoothscroll" href="#about"><i className="icon-down-circle"></i></a>
+      </p>
          </div>
       </div>
 
