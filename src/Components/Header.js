@@ -13,7 +13,7 @@ class Header extends Component {
     }
 
     return (
-      <header id="home">
+      <header id="home">  
 
       <nav id="nav-wrap">
 
